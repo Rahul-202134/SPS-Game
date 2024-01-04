@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sps-game/static/css/main.9ef22022.css",
+    "main.js": "/sps-game/static/js/main.b47ff569.js",
+    "static/js/787.02b58af2.chunk.js": "/sps-game/static/js/787.02b58af2.chunk.js",
+    "static/media/Scissors.png": "/sps-game/static/media/Scissors.8b4fd507d5c87bf2f804.png",
+    "static/media/rock.png": "/sps-game/static/media/rock.b01a9527b9bc6313c6ef.png",
+    "static/media/paper.png": "/sps-game/static/media/paper.844c24752808d43cff82.png",
+    "index.html": "/sps-game/index.html",
+    "main.9ef22022.css.map": "/sps-game/static/css/main.9ef22022.css.map",
+    "main.b47ff569.js.map": "/sps-game/static/js/main.b47ff569.js.map",
+    "787.02b58af2.chunk.js.map": "/sps-game/static/js/787.02b58af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ef22022.css",
+    "static/js/main.b47ff569.js"
+  ]
+}
